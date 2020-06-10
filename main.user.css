@@ -38,6 +38,30 @@ Material Dark Trello by Charlie Etienne
     --LB7: hsla(220, 45%, 55%, 1);
     --LB8: hsla(270, 45%, 55%, 1);
     --LB9: hsla(330, 45%, 55%, 1);
+    /* Transparent nuances */
+    --TR1: hsla(0, 0%, 15%, 0);
+    --TR2: hsla(0, 0%, 18%, 0.5);
+    --TR3: hsla(0, 0%, 18%, 0.88);
+    --TR4: hsla(0, 0%, 70%, 0.66);
+    /* Opaque nuances */
+    --OP1: hsla(0, 0%, 15%, 1);
+    --OP2: hsla(0, 0%, 18%, 1);
+    --OP3: hsla(0, 0%, 21%, 1);
+    --OP4: hsla(0, 0%, 26%, 1);
+    --OP5: hsla(0, 0%, 30%, 1);
+    --OP6: hsla(0, 0%, 32%, 1);
+    --OP7: hsla(0, 0%, 36%, 1);
+    --OP8: hsla(0, 0%, 50%, 1);
+    --OP9: hsla(0, 0%, 60%, 1);
+    --OP10: hsla(0, 0%, 63%, 1);
+    --OP11: hsla(0, 0%, 66%, 1);
+    --OP12: hsla(0, 0%, 70%, 1);
+    --OP13: hsla(0, 0%, 75%, 1);
+    --OP14: hsla(0, 0%, 76%, 1);
+    --OP15: hsla(0, 0%, 80%, 1);
+    --OP16: hsla(0, 0%, 84%, 1);
+    --OP17: hsla(0, 0%, 90%, 1);
+    --OP18: hsla(0, 0%, 95%, 1);
   }
 
 
